@@ -20,3 +20,5 @@ A data analysis project using Python and Jupyter Notebook to uncover insights fr
 
 1. Clone the repo:
 2. Set up jupyter notebook
+3. Install Python libraries like pandas,numpy, matplotlib, and seaborn
+
