@@ -1,5 +1,8 @@
 # 📊 Sales Analysis
 
+## Author
+- [Naveen Kumar Challa](https://github.com/Naveenchalla717/)
+
 A data analysis project using Python and Jupyter Notebook to uncover insights from sales data.
 
 ## 📁 Project Structure
